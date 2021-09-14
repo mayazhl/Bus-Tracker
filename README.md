@@ -3,7 +3,7 @@
 
 ## Bus-Tracker
 
-This is a project in which we developed an animation that displays all city bus stops between MIT and Harward.
+In this project we developed an animation that displays all city bus stops between MIT and Harward.
 
 ## Useage
 
